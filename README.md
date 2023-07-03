@@ -7,3 +7,9 @@
 - Code passé dans le validateur W3C
 - Architecture des dossiers et fichiers respectée
 - Responsive
+
+---
+
+![CV](/public/assets/Desktop%20-%201.png)
+
+![CV](/public/assets/iPhone%208%20-%201.png)
