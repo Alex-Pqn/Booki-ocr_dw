@@ -1,6 +1,6 @@
 ## Transformer une maquette en site web avec HTML5/CSS3
 
-### P3 - OpenClassrooms "Développeur Web"
+### P2 - OpenClassrooms "Développeur Web"
 
 - Transformer une maquette en site web HTML5 & CSS3
 - Respect de la sémantique et utilisation des balises HTML5
