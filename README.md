@@ -37,6 +37,10 @@ Bon courage !
 ---
 
 ![CV](/public/assets/Desktop%20-%201.png)
-<br/>;
-<br/>;
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 ![CV](/public/assets/iPhone%208%20-%201.png)
