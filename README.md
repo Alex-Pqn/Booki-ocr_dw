@@ -22,7 +22,7 @@ Spécifications techniques
 - Le code doit être valide aux validateurs W3C HTML et CSS.
 - La maquette doit être compatible avec les dernières versions de Google Chrome et de Mozilla Firefox. Il faudra tester le prototype sur ces deux navigateurs.
 
-Vous commencez par vous plonger dans l’étude des maquettes à l’aide d’un papier et d’un crayon. Cela vous permet de déCnir les grandes sections de la page avant de démarrer votre intégration.
+Vous commencez par vous plonger dans l’étude des maquettes à l’aide d’un papier et d’un crayon. Cela vous permet de définir les grandes sections de la page avant de démarrer votre intégration.
 
 Bon courage !
 
