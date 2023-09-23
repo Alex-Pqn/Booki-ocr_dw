@@ -45,6 +45,14 @@ Bon courage !
 
 ---
 
+### Start App
+
+Open the [index.html](/index.html) file in your browser or use an extension to start a local server on this file.
+
+> A [Github Pages preview](https://alex-pqn.github.io/Booki-ocr_dw/) is also available for this project
+
+---
+
 ### Preview
 
 ![Booki accueil](/public/assets/Desktop%20-%201.png)
