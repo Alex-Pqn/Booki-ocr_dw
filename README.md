@@ -59,4 +59,8 @@ Clone the project then open the [index.html](/index.html) file in your browser o
 
 ### Preview
 
-![Booki accueil](/public/assets/Desktop%20-%201.png)
+![Booki](/public/assets/Booki.png)
+<br/>
+<br/>
+<br/>
+![Booki](/public/assets/Booki%20Responsive.png)
