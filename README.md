@@ -36,7 +36,7 @@ Vous commencez par vous plonger dans l’étude des maquettes à l’aide d’un
 
 Bon courage !
 
-#### Objectifs
+#### Objectifs réalisés
 
 - Transformer [une maquette](./public/assets/Maquette%20desktop.png) en site web HTML5/CSS3
 - Respect de la sémantique et utilisation des balises HTML5
